@@ -30,5 +30,6 @@
 ![github streaks](https://streak-stats.demolab.com/?user=Notlzin&theme=tokyonight)
 ![languages that i used on github](https://github-readme-stats.vercel.app/api/top-langs/?username=Notlzin&layout=compact&theme=tokyonight)
 
-# contact me
+# contact me and connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Notlzin)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1425806661326471222)
