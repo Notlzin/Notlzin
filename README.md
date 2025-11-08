@@ -1,7 +1,7 @@
-# hey hi hello there, im Notlzin (or angga)
+# hey hi hello there, im Notlzin (or angga)(as you can see its vibe coded LOL)
 
 - im a beginner and really stupid programmer || developer (yes thats a logical or)(learning new stuff everyday)
-- i grind github and leetcode daily (yes daily you heard that)
+- i grind github and leetcode daily (yes daily you heard that)(not anymore because i got tons of school)
 - goal: 25 leetcode submissions (all from editorial or solutions tab in leetcode LOL)
 
 ## the things i have
@@ -15,7 +15,7 @@
   - docker (including docker-desktop)
   - SQLite
   - nasm
-  ### languages i used
+  ### languages i used and ofcourse asked ChatGPT for these things
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
   ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
