@@ -33,3 +33,6 @@
 # contact me and connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Notlzin)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1425806661326471222)
+
+# notes
+it looks bland yes because i used GPT for this, shame on me
